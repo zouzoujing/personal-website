@@ -22,7 +22,7 @@ LINKS =  (('Hometown Education', 'http://www.hometowneducation.org/index.html/')
 
 # Social widget
 SOCIAL = (('Facebook', 'https://www.facebook.com/jing.zou.39'),
-          ('LinkedIn', 'http://www.linkedin.com/profile/view?id=13550275&goback=%2Enmp_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1&trk=spm_pic'),)
+          ('LinkedIn', 'http://nl.linkedin.com/pub/jing-zou/4/655/717'),)
 
 DEFAULT_PAGINATION = 5
 
