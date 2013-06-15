@@ -1,9 +1,5 @@
 About
 #####
-:date: 2013-06-15 16:00
-:author: zouzoujing
-:category: About
-:slug: about
 
 My name is Jing Zou. I am from China and currently live in 
 Eindhoven, the Netherlands. I like writing random things, 
