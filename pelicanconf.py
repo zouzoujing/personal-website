@@ -6,7 +6,7 @@ AUTHOR = u'Jing Zou'
 SITENAME = u"Jing's Corner"
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Amsterdam'
 
 DEFAULT_LANG = u'en'
 
@@ -14,6 +14,7 @@ DEFAULT_LANG = u'en'
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+THEME = 'theme2'
 
 # Blogroll
 LINKS =  (('Hometown Education', 'http://www.hometowneducation.org/index.html/'),
@@ -24,7 +25,7 @@ LINKS =  (('Hometown Education', 'http://www.hometowneducation.org/index.html/')
 SOCIAL = (('Facebook', 'https://www.facebook.com/jing.zou.39'),
           ('LinkedIn', 'http://nl.linkedin.com/pub/jing-zou/4/655/717'),)
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
